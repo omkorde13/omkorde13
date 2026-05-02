@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🎓 Computer Engineering Student  
-- 💻 Interested in Web Development, AI & Machine Learning  
+- 💻 Interested in  Development, AI & Machine Learning  
 - 🚀 Currently working on real-world projects.  
 - 🛠️ Tech Stack: React, Flutter, Django, Firebase, MySQL, Spring Boot, Java  
 - 📚 Always learning and improving my skills  
