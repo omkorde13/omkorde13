@@ -1,124 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=OM%20KORDE&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Cyberpunk%20Builder&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0f172a&text=Om%20Korde&fontColor=38BDF8&fontSize=55&fontAlignY=38&desc=Backend%20Developer%20•%20AI%20%26%20ML%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+
+<h3>
+Building scalable backend systems, AI-powered applications, and real-time platforms.
+</h3>
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;FastAPI+%7C+Spring+Boot+%7C+React+%7C+Flutter;Always+Learning+%26+Building" />
+</p>
 
 </div>
 
-<h1 align="center">⚡ WELCOME TO MY DIGITAL SPACE ⚡</h1>
+---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Systems;FastAPI+%7C+Spring+Boot+%7C+React+%7C+Flutter;Entering+CyberSpace..." />
+# 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Interested in Backend Development, AI & Machine Learning
+- 🚀 Building scalable and real-world software systems
+- 🌱 Currently exploring Distributed Systems & AI Agents
+- ⚡ Passionate about real-time applications and backend architecture
+- 🎯 Goal: Become a skilled Software Engineer and build impactful products
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+</p>
+
+### Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring,nodejs,express" />
+</p>
+
+### Frontend & Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
+</p>
+
+### Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>
+
+### AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
 ---
 
-# 🧠 SYSTEM INFO
+# 🚀 Featured Projects
 
-```yaml
-Name: Om Korde
-Role: Software Engineer in Progress
+## 🤖 AI Fraud Detection System
+- ML-powered fraud detection pipeline using Python & Scikit-learn
+- Real-time anomaly detection and predictive analysis
+- Research-oriented architecture with evaluation metrics
 
-Focus:
-  - Backend Engineering
-  - Artificial Intelligence
-  - Distributed Systems
-  - Real-Time Applications
+## 🚚 Real-Time Driver Tracking System
+- Built using FastAPI, Redis Pub/Sub & WebSockets
+- Live location tracking and event-driven communication
+- Concurrent real-time connection handling
 
-Currently Exploring:
-  - AI Agents
-  - System Design
-  - Scalable Architectures
-  - High Performance APIs
-```
+## 👥 Team Collaboration Platform
+- P2P video conferencing and real-time chat
+- Shared workspaces and collaboration tools
+- Built using React and WebRTC
+
+## 📈 Crypto Price Tracker
+- Real-time cryptocurrency market monitoring application
+- Built with React and Firebase
+- Live updates with responsive dashboard UI
+
+## 🧠 Offline Multi-Agent AI Assistant
+- Autonomous AI-powered research assistant
+- Local multi-agent architecture with offline capabilities
 
 ---
 
-# ⚙️ TECH ARSENAL
+# 🌱 Currently Exploring
+
+- Distributed Systems
+- AI Agents & Automation
+- System Design
+- Backend Scalability
+- Real-Time Architectures
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-### 🚀 Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=omkorde13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 🛠️ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=fastapi,django,spring,nodejs,express" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkorde13&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🌐 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
-
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-### ⚡ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+<img src="https://streak-stats.demolab.com?user=omkorde13&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 ACTIVE PROJECTS
-
-<div align="center">
-
-| Project | Description |
-|---|---|
-| 🤖 AI Fraud Detection System | ML-powered fraud detection pipeline with real-time anomaly detection |
-| 🚚 Real-Time Driver Tracking | FastAPI + Redis + WebSockets live tracking architecture |
-| 👥 Team Collaboration Platform | P2P communication, video conferencing & shared workspaces |
-| 📈 Crypto Price Tracker | Real-time crypto dashboard using React & Firebase |
-| 🧠 Offline Multi-Agent AI Assistant | Autonomous AI-powered research assistant |
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkorde13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkorde13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkorde13&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/omkorde13/omkorde13/output/snake.svg" alt="snake animation"/>
-
-</div>
-
----
-
-# 🌌 VISITOR COUNT
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=omkorde13&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌐 CONNECT TO THE NETWORK
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/omkorde13">
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <a href="https://linkedin.com/in/om-korde-a82b27288">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 </div>
@@ -127,12 +129,8 @@ Currently Exploring:
 
 <div align="center">
 
-```diff
-+ STATUS: ONLINE
-+ SYSTEM MODE: BUILDING THE FUTURE
-+ POWER LEVEL: INCREASING...
-```
+### ⚡ “Code. Build. Improve. Repeat.”
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:0f172a"/>
