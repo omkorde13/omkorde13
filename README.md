@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0f172a&text=Om%20Korde&fontColor=38BDF8&fontSize=55&fontAlignY=38&desc=Backend%20Developer%20•%20AI%20%26%20ML%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+<<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Om%20Korde&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Engineer&descAlignY=58"/>
 
 <h3>
 Building scalable backend systems, AI-powered applications, and real-time platforms.
