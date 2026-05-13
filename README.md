@@ -1,111 +1,138 @@
-<h1 align="center">Hi 👋, I'm Om</h1>
-<h3 align="center">
-Computer Engineering Student • Backend & AI Enthusiast • Building Real-World Systems
-</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=OM%20KORDE&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20AI%20Engineer%20•%20Cyberpunk%20Builder&descAlignY=55&descAlign=50"/>
+
+</div>
+
+<h1 align="center">⚡ WELCOME TO MY DIGITAL SPACE ⚡</h1>
 
 <p align="center">
-Building scalable backend systems, AI-powered applications, and real-time platforms.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Systems;FastAPI+%7C+Spring+Boot+%7C+React+%7C+Flutter;Entering+CyberSpace..." />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧠 SYSTEM INFO
 
-- 🎓 Computer Engineering Student
-- 💻 Interested in Backend Development, AI & Machine Learning
-- ⚡ Building real-world projects focused on scalability and performance
-- 🌱 Currently exploring Distributed Systems, AI Agents, and System Design
-- 🎯 Goal: Become a skilled Software Engineer and build impactful products
+```yaml
+Name: Om Korde
+Role: Software Engineer in Progress
 
----
+Focus:
+  - Backend Engineering
+  - Artificial Intelligence
+  - Distributed Systems
+  - Real-Time Applications
 
-# 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
-
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+Currently Exploring:
+  - AI Agents
+  - System Design
+  - Scalable Architectures
+  - High Performance APIs
+```
 
 ---
 
-# 🚀 Featured Projects
+# ⚙️ TECH ARSENAL
 
-## 🤖 AI Fraud Detection System
-- ML-powered fraud detection pipeline using Python & Scikit-learn
-- Real-time anomaly detection and prediction
-- Research-oriented architecture with model evaluation metrics
+<div align="center">
 
-## 🚚 Real-Time Driver Tracking System
-- Built using FastAPI, Redis Pub/Sub & WebSockets
-- Live driver/customer location tracking
-- Event-driven backend architecture for concurrent connections
+### 🚀 Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
 
-## 👥 Team Collaboration Platform
-- P2P video conferencing and real-time chat
-- Shared workspaces and file collaboration
-- Built with React and WebRTC technologies
+### 🛠️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring,nodejs,express" />
 
-## 📈 Crypto Price Tracker
-- Real-time crypto market monitoring application
-- Built using React and Firebase
-- Live price updates and responsive dashboard UI
+### 🌐 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
 
----
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 
-# 🌱 Currently Exploring
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-- Distributed Systems
-- AI Agents & Automation
-- Real-Time Architectures
-- System Design
-- Backend Scalability
+### ⚡ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 ACTIVE PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 🤖 AI Fraud Detection System | ML-powered fraud detection pipeline with real-time anomaly detection |
+| 🚚 Real-Time Driver Tracking | FastAPI + Redis + WebSockets live tracking architecture |
+| 👥 Team Collaboration Platform | P2P communication, video conferencing & shared workspaces |
+| 📈 Crypto Price Tracker | Real-time crypto dashboard using React & Firebase |
+| 🧠 Offline Multi-Agent AI Assistant | Autonomous AI-powered research assistant |
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# 📊 GITHUB ANALYTICS
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkorde13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkorde13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkorde13&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/omkorde13/omkorde13/output/snake.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+# 🌌 VISITOR COUNT
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=omkorde13&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT TO THE NETWORK
+
+<div align="center">
+
+<a href="https://github.com/omkorde13">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/om-korde-a82b27288">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
-</p>
+
+</div>
+
+---
+
+<div align="center">
+
+```diff
++ STATUS: ONLINE
++ SYSTEM MODE: BUILDING THE FUTURE
++ POWER LEVEL: INCREASING...
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
