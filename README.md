@@ -7,7 +7,7 @@ Building scalable backend systems, AI-powered applications, and real-time platfo
 </h3>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;FastAPI+%7C+Spring+Boot+%7C+React+%7C+Flutter;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;FastAPI+%7C+Spring+Boot+%7C+React+%7C;Always+Learning+%26+Building" />
 </p>
 
 </div>
