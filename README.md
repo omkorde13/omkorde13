@@ -97,19 +97,6 @@ Building scalable backend systems, AI-powered applications, and real-time platfo
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=omkorde13&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkorde13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=omkorde13&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
