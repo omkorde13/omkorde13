@@ -17,7 +17,7 @@
 
 ## 📊 Professional Summary
 
-Driven Computer Engineering student specializing in **scalable backend systems**, **AI-powered applications**, and **distributed architectures**. Passionate about building production-grade software that handles real-world challenges with optimal performance and reliability. Focused on system design, microservices, and cutting-edge technologies.
+Driven Computer Engineering student learning **scalable backend systems**, **AI-powered applications**, and **distributed architectures**. Passionate about building production-grade software that handles real-world challenges with optimal performance and reliability. Focused on system design, microservices, and cutting-edge technologies.
 
 ---
 
@@ -25,7 +25,7 @@ Driven Computer Engineering student specializing in **scalable backend systems**
 
 <div align="center">
 
-| **Backend Architecture** | **Real-Time Systems** | **AI & ML** | **Cloud & DevOps** |
+| **Backend Architecture** | **Real-Time Systems** | **AI & ML** |
 |:---:|:---:|:---:|:---:|
 | FastAPI · Django | WebSockets · Redis | PyTorch · TensorFlow | Docker · Linux |
 | Spring Boot · Node.js | Event Streaming | ML Pipelines | AWS · Firebase |
@@ -141,12 +141,11 @@ Driven Computer Engineering student specializing in **scalable backend systems**
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  🔹 Distributed Systems & Consensus Protocols     │
+│  🔹 Distributed Systems 
 │  🔹 AI Agents & Autonomous Systems                │
 │  🔹 System Design & Architecture Patterns         │
 │  🔹 Backend Scalability & Performance Optimization │
-│  🔹 Real-Time Event Processing                    │
-│  🔹 Cloud-Native Development                      │
+│  🔹 Real-Time Event Processing                    │                                                    
 └─────────────────────────────────────────────────────┘
 ```
 
