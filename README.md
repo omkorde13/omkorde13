@@ -165,16 +165,6 @@ Building collaborative project management features:
 
 ---
 
-## 📊 **GitHub Statistics**
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkorde13&theme=dark&hide_border=true&background=0f172a&stroke=38BDF8&ring=38BDF8&fire=38BDF8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkorde13&layout=compact&theme=dark&bg_color=0f172a&title_color=38BDF8&hide_border=true)
-
-</div>
-
 ---
 
 ## 📚 **What I'm Learning**
