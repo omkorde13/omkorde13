@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/om-korde-a82b27288)
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Systems+Architect;AI+%26+ML+Engineer;Distributed+Systems+Specialist;Real-Time+Systems+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Systems+Architect;AI+%26+ML+Engineer;Distributed+Systems;Real-Time+Systems+Developer"/>
 </p>
 
 </div>
