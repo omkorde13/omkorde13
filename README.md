@@ -10,7 +10,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/omkorde13?style=social&label=Follow)](https://github.com/omkorde13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/om-korde-a82b27288)
-[![Email](https://img.shields.io/badge/Email-om-red?style=flat&logo=gmail)](mailto:omkorde13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-om-red?style=flat&logo=gmail)](mailto:omskorde@gmail.com)
 
 </div>
 
@@ -34,7 +34,7 @@ I'm a **Computer Engineering student** passionate about building **backend syste
 
 ### **Frontend Development**
 - **Frameworks:** React, Next.js
-- **Styling:** TailwindCSS, Material-UI
+- **Styling:** TailwindCSS, Shadcn-UI
 - **Tools:** Vite, TypeScript
 
 ### **AI & Machine Learning**
@@ -154,7 +154,7 @@ Learning cryptography and web development:
 
 ```
 Frontend:    React • Next.js • TypeScript • TailwindCSS
-Backend:     FastAPI • Node.js • Spring Boot • Django
+Backend:     FastAPI • Node.js • Spring Boot 
 Databases:   PostgreSQL • MongoDB • Redis
 AI/ML:       PyTorch • TensorFlow • Scikit-learn • OpenCV
 DevOps:      Docker • Git • Linux • AWS basics
