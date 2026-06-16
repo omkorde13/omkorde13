@@ -21,7 +21,6 @@ I'm a final-year **B.Tech (Electronics & Computer Science)** student at **Ramdeo
 
 I like problems where a model has to perceive something hard — a transparent object, a violent act in a crowd — and a system has to act on it *now*. So I go deep on **Spiking Neural Networks** and event-based vision, and just as deep on the plumbing that turns a model into a product: **WebSockets, Redis, async APIs, payments, and microservices**. I ship full systems — model, API, and UI — and I write **tests and CI** for them.
 
-🎯 **Open to SDE / Backend / AI-ML internships and new-grad roles.**
 
 ---
 
