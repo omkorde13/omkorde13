@@ -1,220 +1,135 @@
 <div align="center">
 
-# 👋 **Om Korde** — Backend Developer & AI Enthusiast
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=280&section=header&text=Om%20Korde&fontSize=60&fontColor=38BDF8&animation=fadeIn&fontAlignY=38" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=280&section=header&text=Om%20Korde&fontSize=64&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Neuromorphic%20AI%20%C2%B7%20Real-Time%20Systems%20%C2%B7%20Applied%20ML&descSize=18&descAlignY=58&descColor=c4a0ff" alt="Header" width="100%" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=38BDF8&center=true&width=600&lines=Computer+Engineering+Student;Building+Scalable+Backend+Systems;Learning+AI+%26+ML+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&width=640&lines=B.Tech+Electronics+%26+Computer+Science+%2727;I+build+systems+that+think+and+react+in+real+time;Spiking+Neural+Nets+%E2%80%A2+WebSockets+%E2%80%A2+Production+ML" alt="Typing Animation" />
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/omkorde13?style=social&label=Follow)](https://github.com/omkorde13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/om-korde-a82b27288)
-[![Email](https://img.shields.io/badge/Email-om-red?style=flat&logo=gmail)](mailto:omkorde13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-korde-a82b27288)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omskorde@gmail.com)
+[![Location](https://img.shields.io/badge/Nagpur,%20India-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38BDF8)](#)
+[![GitHub followers](https://img.shields.io/github/followers/omkorde13?style=for-the-badge&logo=github&label=Follow&color=8b5cf6)](https://github.com/omkorde13)
 
 </div>
 
 ---
 
-## 👨‍💻 **About Me**
+## 👋 About
 
-I'm a **Computer Engineering student** passionate about building **backend systems** and exploring **AI/ML technologies**. Through hands-on projects, I'm developing practical skills in system design, real-time applications, and machine learning.
+I'm a final-year **B.Tech (Electronics & Computer Science)** student at **Ramdeobaba University, Nagpur (CGPA 8.5)**, working where **brain-inspired AI** meets **real-time engineering**.
 
-**Currently Learning:** Distributed systems, backend architecture, and AI applications
+I like problems where a model has to perceive something hard — a transparent object, a violent act in a crowd — and a system has to act on it *now*. So I go deep on **Spiking Neural Networks** and event-based vision, and just as deep on the plumbing that turns a model into a product: **WebSockets, Redis, async APIs, payments, and microservices**. I ship full systems — model, API, and UI — and I write **tests and CI** for them.
 
----
-
-## 🎯 **Skills & Technologies**
-
-### **Backend Development**
-- **Languages:** Python, JavaScript, TypeScript, Java
-- **Frameworks:** FastAPI, Node.js/Express, Spring Boot, Django
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Key Concepts:** REST APIs, Microservices, Real-time Systems, WebSockets
-
-### **Frontend Development**
-- **Frameworks:** React, Next.js
-- **Styling:** TailwindCSS, Material-UI
-- **Tools:** Vite, TypeScript
-
-### **AI & Machine Learning**
-- **Libraries:** PyTorch, TensorFlow, Scikit-learn, OpenCV
-- **Areas:** Deep Learning, NLP, Computer Vision, Spiking Neural Networks
-
-### **DevOps & Tools**
-- **Containerization:** Docker
-- **Version Control:** Git, GitHub
-- **Deployment:** Basic AWS, Firebase
-- **Other:** Linux, CI/CD basics
+🎯 **Open to SDE / Backend / AI-ML internships and new-grad roles.**
 
 ---
 
-## 💼 **Featured Projects**
+## 🚀 Featured Projects
 
-### 1️⃣ **🚚 Real-Time Driver Tracking System**
-*FastAPI · Redis · WebSockets · PostgreSQL · Python*
+### 🧠 [NeurOGrasp](https://github.com/omkorde13/NeurOGrasp) — Grasping invisible objects with Spiking Neural Networks
+Transparent objects defeat normal cameras. NeurOGrasp simulates an event-based camera (v2e), encodes the stream with **LIF neurons + temporal attention**, and predicts bounding boxes and **6-DOF grasp poses**.
+> `86K-param` neuromorphic model · **90%+ smaller** than comparable CNNs · **+18%** grasp-pose accuracy · mixed-precision pipeline cut experiment time **40%**
 
-Learning real-time system architecture with a live tracking platform:
-- 📡 **Live geolocation tracking** using WebSockets for instant updates
-- 🔄 **Event-driven architecture** with Redis Pub/Sub messaging
-- ⚡ **Concurrent connections** handling thousands of drivers efficiently
-- 💾 **PostgreSQL persistence** for order and location data
-- 🔐 **JWT authentication** with role-based access control
+`PyTorch` · `Spiking Neural Nets` · `Event Cameras` · `CUDA`
 
-**Key Concepts:**
-- Async I/O with FastAPI for handling 10K+ concurrent users
-- Redis streams for event streaming and message queuing
-- Connection pooling and load balancing
-- Real-time data aggregation and analytics
+### 👁️ [NeuroWatch-AI](https://github.com/omkorde13/NeuroWatch-AI) — Real-time neuromorphic surveillance
+Live detection of violence and abnormal activity, fusing **SNNs + YOLOv8 + optical flow**, streamed through a FastAPI + React analytics dashboard.
 
-**Key Takeaway:** Building scalable systems that handle massive concurrent connections
+`PyTorch` · `SNNs` · `YOLOv8` · `OpenCV` · `FastAPI` · `React`
 
-📍 [View Repository](https://github.com/omkorde13/driver-tracking-system)
+### 🚚 [FleetFlow](https://github.com/omkorde13/fleetflow) — Real-time delivery & logistics platform
+End-to-end logistics product: **live GPS tracking over WebSockets**, OTP-verified handover, dynamic pricing, and Razorpay payments. Horizontally scalable via **Redis pub/sub** fan-out. Backed by a **pytest suite + GitHub Actions CI**.
 
----
+`FastAPI` · `React/TS` · `WebSockets` · `Redis` · `Celery` · `PostgreSQL` · `Docker`
 
-### 2️⃣ **🤖 NeurOGrasp — Transparent Object Grasping**
-*Python · PyTorch · Jupyter Notebook · Event Simulation*
+### 📈 [Dynamic Ride Pricing Engine](https://github.com/omkorde13/PricingMl) — ML pricing for ride-hailing
+Predicts ride prices on **33,484 real rides** to a **0.947 R²** at **95ms** inference. A FastAPI model service (XGBoost/LightGBM/RF/Ridge) behind a Spring Boot gateway + React dashboard; Dockerized, **−60%** setup time.
 
-Advanced deep learning project with Spiking Neural Networks:
-- 📸 **Event camera simulation** using v2e synthesis from RGB images
-- 🧠 **Spiking Neural Networks (LIF)** with temporal attention mechanisms
-- 🎯 **Bounding box detection** for transparent glass objects
-- ✋ **Grasp pose estimation** trained on real datasets
-- 📊 **Complete ML pipeline** from data preprocessing to inference
+`XGBoost` · `LightGBM` · `FastAPI` · `Spring Boot` · `React` · `PostgreSQL`
 
-**Technical Highlights:**
-- Custom loss functions for multi-task learning (bbox + grasp regression)
-- Voxel grid encoding for variable-length event streams
-- Temporal attention layers for sequence modeling
-- Ablation studies for architectural validation
-- Real dataset training (Kaggle Transparent Object Detection)
+### 💬 [TeamFlow](https://github.com/omkorde13/Project-workspace-management) — Real-time team collaboration
+Spring Boot + PostgreSQL collaboration platform: JWT auth, **role-based access control**, and real-time chat over **WebSocket/STOMP**. JUnit + Mockito tests with CI.
 
-**Key Takeaway:** Building sophisticated ML models with proper validation and scientific rigor
+`Spring Boot` · `PostgreSQL` · `JWT` · `WebSocket/STOMP` · `RBAC`
 
-📍 [View Repository](https://github.com/omkorde13/NeurOGrasp)
+### 🔒 [OfflineRAG](https://github.com/omkorde13/OfflineRAG) — Chat with your PDFs, 100% offline
+A privacy-first RAG system where no data leaves the machine — **LangChain + ChromaDB + Ollama**.
+
+`LangChain` · `ChromaDB` · `Ollama` · `Python`
 
 ---
 
-### 3️⃣ **📦 Logistics Order Management System**
-*Node.js · Express · PostgreSQL · JWT*
+## 🛠️ Tech Stack
 
-Building a production-like backend with core enterprise features:
-- 👤 **User authentication** with JWT token-based security
-- 🔐 **Protected APIs** with role-based access control
-- 📋 **Order management** pipeline with full lifecycle tracking
-- 👨‍💼 **Driver allocation** system with dynamic status updates
-- ✅ **Data validation** middleware for request validation
-- 🏗️ **Modular architecture** designed for scalability
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend Features:**
-- RESTful API design with proper HTTP semantics
-- Database schema with normalized tables and relationships
-- Transaction handling for order lifecycle consistency
-- Indexed queries for query performance optimization
-- Error handling middleware for production reliability
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Key Takeaway:** Professional backend patterns with authentication, validation, and business logic
+**Backend & Real-Time**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-📍 [View Repository](https://github.com/omkorde13/logistics-order-system)
-
----
-
-### 4️⃣ **🔐 Offline RAG System**
-*Python · LangChain · ChromaDB · Ollama*
-
-Exploring local AI and privacy-focused document processing:
-- 💾 **Fully offline** with zero external API calls
-- 📄 **PDF processing** with local semantic embeddings
-- 🤖 **LLM integration** using Ollama for local inference
-- 🔍 **Semantic search** using ChromaDB vector database
-- 🛡️ **Privacy-first** architecture keeping all data local
-
-**Architecture:**
-- Document loading and chunking pipeline
-- Local embedding generation with transformer models
-- Vector similarity search for retrieval
-- Context-aware response generation
-
-**Key Takeaway:** Building AI applications that respect user privacy with local processing
-
-📍 [View Repository](https://github.com/omkorde13/OfflineRAG)
+**Frontend & Tooling**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-### 5️⃣ **🎯 Project Workspace Management**
-*React · Next.js · TypeScript · Node.js · PostgreSQL*
+## 🏆 Achievements & Certifications
 
-Building collaborative project management features:
-- 📊 **Project dashboard** with real-time status tracking
-- 👥 **Team collaboration** with role-based permissions
-- 📝 **Task management** with workflow automation
-- 💬 **Real-time updates** using WebSockets for live collaboration
-- 🔔 **Notifications** system for team coordination
-
-**Features:**
-- User authentication and authorization
-- Project CRUD operations with full lifecycle management
-- Task assignment and progress tracking
-- Collaborative workspace with real-time synchronization
-- Comment threads and activity logs
-
-**Key Takeaway:** Full-stack development with real-time collaboration features
-
-📍 [View Repository](https://github.com/omkorde13/project-workspace-management)
+- 🥇 **Winner — CyneCrypt Cybersecurity Competition** (₹5,000 prize)
+- 🏅 **Top 10 — YCCE TechFest Smackathon** (out of 400+ participants)
+- ⚔️ **Competitive Programming** — Codeforces & CodeChef
+- 📜 Machine Learning — **Andrew Ng (Coursera)** · **Google Advanced Data Analytics** · Leadership Skills
 
 ---
 
----
-
-## 📚 **What I'm Learning**
-
-- ✅ Real-time system design and WebSocket architectures
-- ✅ Building scalable APIs and microservices
-- ✅ Deep learning model development (CNNs, SNNs, Transformers)
-- ✅ Backend security (authentication, encryption, validation)
-- ✅ Database optimization and query performance
-- ✅ Full-stack development workflows
-- ✅ AI pipeline from data preprocessing to inference
-- ✅ Collaborative systems and real-time synchronization
-
----
-
-## 🛠️ **Tech Stack Overview**
-
-```
-Frontend:    React • Next.js • TypeScript • TailwindCSS • Vite
-Backend:     FastAPI • Node.js/Express • Spring Boot • Django
-Real-Time:   WebSockets • Redis Pub/Sub • Socket.io
-Databases:   PostgreSQL • MongoDB • Redis • ChromaDB
-AI/ML:       PyTorch • TensorFlow • Scikit-learn • OpenCV
-DevOps:      Docker • Git • Linux • AWS basics
-```
-
----
-
-## 📞 **Let's Connect**
+## 📊 GitHub Stats
 
 <div align="center">
 
-**I'm open to internships, learning opportunities, and feedback!**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omkorde13&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=38BDF8&title_color=c4a0ff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkorde13&layout=compact&hide_border=true&theme=tokyonight&title_color=c4a0ff&langs_count=8" alt="Top languages" />
 
-[GitHub](https://github.com/omkorde13) • [LinkedIn](https://linkedin.com/in/om-korde-a82b27288) • [Email](mailto:omkorde13@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkorde13&hide_border=true&theme=tokyonight&ring=38BDF8&fire=c4a0ff&currStreakLabel=38BDF8" alt="Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=omkorde13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" width="100%" />
 
 </div>
 
 ---
 
-## 💭 **My Learning Philosophy**
+<div align="center">
 
-> I believe in **learning by building**. Each project teaches me something new:
-> - How to design systems that scale
-> - Best practices in code organization
-> - Real-world problem-solving
-> - Balancing theory with practical implementation
-> 
-> I'm eager to apply these skills in a professional setting and continue growing as a developer.
+### 🤝 Let's build something that reacts.
 
----
+**Open to internships and new-grad roles in AI/ML, Computer Vision, and real-time backend engineering.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-korde-a82b27288)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omskorde@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkorde13)
+
+<img src="https://komarev.com/ghpvc/?username=omkorde13&style=flat-square&color=8b5cf6&label=Profile+Views" alt="Profile views" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:0f172a" alt="Footer Wave" width="100%" />
